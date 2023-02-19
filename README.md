@@ -24,8 +24,8 @@ implementation of various techniques on different ML models. We will further ana
     1. Random Forest
     2. Decision Tree
     3. K-Nearest Neighbour
-    4. **Logisitic Regression**: jsbcjdsnv
-    5. **XGBoost**
+    4. Logisitic Regression*
+    5. XGBoost
 
      
 
