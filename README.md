@@ -18,8 +18,7 @@ implementation of various techniques on different ML models. We will further ana
       
    3. **Stratified Sampling** : Stratified sampling is a method of sampling from a population which can be partitioned into subpopulations. Here it is based on the           class attribute. Then we select equal number of instances of both the subpopulations.
       
-   4. **Cluster Sampling** : A probability sampling method in which you divide a population into clusters   and then randomly select some of these clusters as your            sample.
-   
+   4. **Cluster Sampling** : A probability sampling method in which you divide a population into clusters   and then randomly select some of these clusters as your            sample.  
 ### 3. Applying five ML Models on above four samples: <br>
     1. Random Forest
     2. Decision Tree
