@@ -36,7 +36,7 @@ implementation of various techniques on different ML models. We will further ana
    
 ## Conclusion
  As there are mutliple 100s in the table, it is unable to say one model. It depends on the sample taken using the technique. But the model which gives best result 
- with every technique is **XGBoost**
+ with every technique is **XGBoost**. 
 
 
 
