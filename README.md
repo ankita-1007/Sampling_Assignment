@@ -31,7 +31,12 @@ implementation of various techniques on different ML models. We will further ana
    - **XGBoost**
 
 ### 4. Constructing Accuracy Table : <br>
-   <img src="https://user-images.githubusercontent.com/100415671/219959246-b0224ef3-e002-40a3-b8c9-98bc1bc9c74a.png" width=50% height=60%>
+   <img src="https://user-images.githubusercontent.com/100415671/219959246-b0224ef3-e002-40a3-b8c9-98bc1bc9c74a.png" width=60% height=70%>
+   
+   
+## Conclusion
+ As there are mutliple 100s in the table, it is unable to say one model. It depends on the sample taken using the technique. But the model which gives best result 
+ with every technique is **XGoost**
 
 
 
