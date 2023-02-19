@@ -11,7 +11,9 @@ implementation of various techniques on different ML models. We will further ana
 ### 2. Generating samples using four different sampling techniques: <br>
    Exploring various sampling techniques:
    1. Simple Random Sampling :A simple random sample is a subset of individuals chosen from a larger set in which a subset of individuals are chosen randomly, all with         the same probability. We found the sample size using Sample size detection formula :
-      <img src= "https://user-images.githubusercontent.com/100415671/219952475-13f485b0-08cd-44b9-a4d5-356faf65fa1f.png" )
+
+      <img src="https://user-images.githubusercontent.com/100415671/219952601-de539e8a-3dad-4da7-8722-e8304a1c5396.png" width=50% height=50%>
+
 
 
 
