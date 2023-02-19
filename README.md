@@ -21,9 +21,13 @@ implementation of various techniques on different ML models. We will further ana
    4. **Cluster Sampling** : A probability sampling method in which you divide a population into clusters   and then randomly select some of these clusters as your            sample.  
 ### 3. Applying five ML Models on above four samples: <br>
     1. Random Forest
+    
     2. Decision Tree
+    
     3. K-Nearest Neighbour
+    
     4. Logisitic Regression
+    
     5. XGBoost
 
      
