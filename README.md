@@ -14,11 +14,14 @@ implementation of various techniques on different ML models. We will further ana
 
       <img src="https://user-images.githubusercontent.com/100415671/219952601-de539e8a-3dad-4da7-8722-e8304a1c5396.png" width=30% height=30%>
 
+   
+
    2. **Systematic Sampling** : Systematic sampling is a probability sampling method where researchers select members of the population at a regular interval. We             defined the step size by passing the arguments. 
       
    3. **Stratified Sampling** : Stratified sampling is a method of sampling from a population which can be partitioned into subpopulations. Here it is based on the           class attribute. Then we select equal number of instances of both the subpopulations.
       
    4. **Cluster Sampling** : A probability sampling method in which you divide a population into clusters   and then randomly select some of these clusters as your            sample.  
+   5. **Convenience Sampling** :Convenience sampling is a non-probability sampling method where units are selected for inclusion in the sample because they are the            easiest for the researcher to access.
 ### 3. Applying five ML Models on above four samples: <br>
 
    - **Random Forest**
