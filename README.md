@@ -31,6 +31,8 @@ implementation of various techniques on different ML models. We will further ana
    - **XGBoost**
 
 ### 4. Constructing Accuracy Table : <br>
+   <img src="https://user-images.githubusercontent.com/100415671/219959246-b0224ef3-e002-40a3-b8c9-98bc1bc9c74a.png" width=40% height=50%>
+
 
 
 
