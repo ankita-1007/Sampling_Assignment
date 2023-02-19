@@ -1,6 +1,0 @@
-,Simple Random,Systematic,Cluster,Stratified,Convenience
-Logisitic,90.90909091,84.31372549,100,98.33333333,98.75
-KNN,84.41558442,68.62745098,87.5,92.5,87.5
-Decision Tree,100,96.07843137,100,93.4,89.2
-Random Forest,98.4,100,100,97.5,97.2
-XGBoost,98.2,100,99.6,100,100
