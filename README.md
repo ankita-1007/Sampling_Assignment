@@ -27,6 +27,11 @@ implementation of various techniques on different ML models. We will further ana
    - **Logisitic Regression**
    - **XGBoost**
 
+### 4. Constructing Accuracy Table : <br>
+
+
+
+
      
 
    
