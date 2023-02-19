@@ -13,8 +13,7 @@ implementation of various techniques on different ML models. We will further ana
    1. Simple Random Sampling : A simple random sample is a subset of individuals chosen from a larger set in which a subset of individuals are chosen randomly, all with       the same probability. We found the sample size using Sample size detection formula :
 
       <img src="https://user-images.githubusercontent.com/100415671/219952601-de539e8a-3dad-4da7-8722-e8304a1c5396.png" width=30% height=30%>
-      
-      
+
    2. Systematic Sampling : Systematic sampling is a probability sampling method where researchers select members of the population at a regular interval. We defined
       the step size by passing the arguments. 
       
